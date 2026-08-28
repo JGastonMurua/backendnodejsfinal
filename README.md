@@ -459,3 +459,7 @@ backendnodejsfinal/
   "updatedAt": String (automático)
 }
 ```
+
+---
+
+Desarrollado por [Jorge Gastón Murúa](https://jorge-gaston-murua.gtresia.com/) — [portfolio](https://jorge-gaston-murua.gtresia.com/) · [LinkedIn](https://linkedin.com/in/jgastonmurua)

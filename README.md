@@ -1,3 +1,8 @@
+> 📚 **Proyecto de formación** — trabajo final de TalentoTech (Node.js). No está en desarrollo activo.
+> Mis proyectos en producción están en mi [portfolio](https://jorge-gaston-murua.gtresia.com/).
+
+---
+
 # 🚀 API REST - TechLab
 
 API REST para gestión de productos con autenticación JWT y Firebase Firestore.
